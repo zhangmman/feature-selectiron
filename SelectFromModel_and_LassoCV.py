@@ -24,8 +24,6 @@ sfm = SelectFromModel(clf, threshold=0.25)
 sfm.fit(X, y)
 n_features = sfm.transform(X).shape[1]
 
-
-
 # Reset the threshold till the number of features equals two.
 # Note that the attribute can be set directly instead of repeatedly
 # fitting the metatransformer.
@@ -46,7 +44,10 @@ plt.ylabel("Feature number 2")
 plt.ylim([np.min(feature2), np.max(feature2)])
 plt.show()
 
+'''
+git 本地做了修改会如何？
 
+'''
 
 
 
