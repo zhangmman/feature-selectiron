@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Recursive_feature_elimination_with_cross-validation.py" description="rfecv = RFECV(estimator=svc, step=1, cv=Stratified..." line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bfee47-f419-45ea-86d1-17bbb9ac56c5" name="Default Changelist" comment="" />
+    <list default="true" id="b5bfee47-f419-45ea-86d1-17bbb9ac56c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SelectFromModel_and_LassoCV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="330">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <element signature="e#49#80#0" expanded="true" />
               </folding>
@@ -102,6 +104,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -392,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SelectFromModel_and_LassoCV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="330">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="e#49#80#0" expanded="true" />
           </folding>
