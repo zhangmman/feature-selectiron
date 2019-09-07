@@ -8,7 +8,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from sklearn.datasets import load_boston
+from sklearn.datasets import load_boston,load_iris
 from sklearn.feature_selection import SelectFromModel
 from sklearn.linear_model import LassoCV
 
